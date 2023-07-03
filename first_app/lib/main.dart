@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 
-// void main() {
-//   runApp(
-//     MaterialApp(
-//       home: Scaffold(body: GradientContainer()),
-//     ),
-//   );
-// }
+void main() {
+  runApp(
+    MaterialApp(
+      home: Scaffold(body: GradientContainer()),
+    ),
+  );
+}
 
 class GradientContainer extends StatelessWidget {
   @override
